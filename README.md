@@ -1,7 +1,8 @@
+
 <h1 align="center">Hi 👋, I'm Ashwini Kheersagar</h1>
 <h3 align="center">A passionate Frontend & Full-Stack Developer from India</h3>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/userupload/30832962/file/original-199091f9b19f067153ecd518321a3898.gif">
+<img align="right" alt="Coding" width="200" src="https://cdn.dribbble.com/userupload/30832962/file/original-199091f9b19f067153ecd518321a3898.gif">
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ashwinikheersagar" alt="ashwinikheersagar" /></a> </p>
 
