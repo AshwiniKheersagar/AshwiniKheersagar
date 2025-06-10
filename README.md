@@ -5,13 +5,13 @@
 
 - 🔭 I’m currently working on **Petition Analysis System**
 
-- 🌱 I’m currently learning **Advanced MERN Stack** and **Data Analysis with Python**
+- 🌱 I’m currently learning **Data Analysis with Python** and **Advanced MERN Stack**
 
 - 👯 I’m looking to collaborate on [Full-Stack & Data-Driven Projects](https://github.com/AshwiniKheersagar/spotmark.git)
 
 - 🤝 I’m looking for help with **Performance Optimization** and **Scaling MERN Applications**
 
-- 💬 Ask me about **React, Node.js, Express.js, MongoDB, SQL, Python, Pandas, Seaborn**
+- 💬 Ask me about **Python, Pandas, Seaborn,React, Node.js, Express.js, MongoDB, SQL**
 
 - 📫 Reach me at **ashwinikheersagar25032004@gmail.com**
 
