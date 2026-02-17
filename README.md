@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ashwini S</h1>
-<h3 align="center">Software Engineer | Full-Stack Developer | Data Enthusiast</h3>
+<h3 align="center">Software Engineer | Full-Stack Developer </h3>
 
 - 📫 Email: ashwinikheersagar25032004@gmail.com | 📱 9361436215 | 📍 Hosur  
 - 🌐 GitHub: [AshwiniKheersagar](https://github.com/AshwiniKheersagar) | LinkedIn: [Ashwini S](https://linkedin.com/in/ashwini-kheersagar)  
